@@ -2,5 +2,9 @@
     "id": 1,
     "lic": 1,
     "title": "test",
-    "completed": false
+    "completed": false,
+    "gak": [
+        "1a2",
+        "3a4"
+    ]
 }
